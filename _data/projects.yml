@@ -4,9 +4,9 @@
 # probot
 - project: probot
   role: Contributor
-  duration: 2016 &mdash; Present
+  duration: half a hour
   url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+  description: learning how to reslove merge confilits and learning how to use github
 
 # GitHub Classroom
 - project: GitHub Classroom
